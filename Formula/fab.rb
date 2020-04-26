@@ -4,9 +4,9 @@
 class Fab < Formula
   desc "Command-line utilities for working with Phabricator"
   homepage "https://github.com/ShaishavGandhi/fab"
-  url "https://github.com/ShaishavGandhi/fab/releases/download/v0.3.0/fab-v030.tar.gz"
-  sha256 "079b309974d62d33e188ed1b76133cf0fe2a77c3f69fba2c677196ad6a92bad8"
-  version "0.3.0"
+  url "https://github.com/ShaishavGandhi/fab/releases/download/v0.4.0/fab-v040.tar.gz"
+  sha256 "075fdd8b251b9686783f1328df1b30ff703128bc7edd4ee20faddaab5973d7a2"
+  version "0.4.0"
 
   def install
     bin.install "fab"
